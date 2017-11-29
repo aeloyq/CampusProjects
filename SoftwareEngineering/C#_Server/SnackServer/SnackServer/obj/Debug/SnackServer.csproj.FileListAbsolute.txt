@@ -1,0 +1,36 @@
+C:\Users\aeloyq\Documents\Visual Studio 2012\Projects\SnackServer\SnackServer\bin\Debug\SnackServer.exe.config
+C:\Users\aeloyq\Documents\Visual Studio 2012\Projects\SnackServer\SnackServer\bin\Debug\SnackServer.exe
+C:\Users\aeloyq\Documents\Visual Studio 2012\Projects\SnackServer\SnackServer\bin\Debug\SnackServer.pdb
+C:\Users\aeloyq\Documents\Visual Studio 2012\Projects\SnackServer\SnackServer\obj\Debug\SnackServer.csprojResolveAssemblyReference.cache
+C:\Users\aeloyq\Documents\Visual Studio 2012\Projects\SnackServer\SnackServer\obj\Debug\SnackServer.Server.resources
+C:\Users\aeloyq\Documents\Visual Studio 2012\Projects\SnackServer\SnackServer\obj\Debug\SnackServer.Properties.Resources.resources
+C:\Users\aeloyq\Documents\Visual Studio 2012\Projects\SnackServer\SnackServer\obj\Debug\SnackServer.csproj.GenerateResource.Cache
+C:\Users\aeloyq\Documents\Visual Studio 2012\Projects\SnackServer\SnackServer\obj\Debug\SnackServer.exe
+C:\Users\aeloyq\Documents\Visual Studio 2012\Projects\SnackServer\SnackServer\obj\Debug\SnackServer.pdb
+C:\Users\aeloyq\Desktop\SnackServer\SnackServer\bin\Debug\SnackServer.exe.config
+C:\Users\aeloyq\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.exe
+C:\Users\aeloyq\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.pdb
+C:\Users\aeloyq\Desktop\SnackServer\SnackServer\bin\Debug\SnackServer.exe
+C:\Users\aeloyq\Desktop\SnackServer\SnackServer\bin\Debug\SnackServer.pdb
+C:\Users\aeloyq\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.csprojResolveAssemblyReference.cache
+C:\Users\aeloyq\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.Server.resources
+C:\Users\aeloyq\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.Properties.Resources.resources
+C:\Users\aeloyq\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SnackServer\SnackServer\bin\Debug\SnackServer.exe.config
+C:\Users\Administrator\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.exe
+C:\Users\Administrator\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.pdb
+C:\Users\Administrator\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.Server.resources
+C:\Users\Administrator\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SnackServer\SnackServer\bin\Debug\SnackServer.exe
+C:\Users\Administrator\Desktop\SnackServer\SnackServer\bin\Debug\SnackServer.pdb
+C:\Users\Administrator\Desktop\SnackServer\SnackServer\obj\Debug\SnackServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\临时\SnackServer\SnackServer\bin\Debug\SnackServer.exe.config
+C:\Users\Administrator\Desktop\临时\SnackServer\SnackServer\obj\Debug\SnackServer.exe
+C:\Users\Administrator\Desktop\临时\SnackServer\SnackServer\obj\Debug\SnackServer.pdb
+C:\Users\Administrator\Desktop\临时\SnackServer\SnackServer\bin\Debug\SnackServer.exe
+C:\Users\Administrator\Desktop\临时\SnackServer\SnackServer\bin\Debug\SnackServer.pdb
+C:\Users\Administrator\Desktop\临时\SnackServer\SnackServer\obj\Debug\SnackServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\临时\SnackServer\SnackServer\obj\Debug\SnackServer.Server.resources
+C:\Users\Administrator\Desktop\临时\SnackServer\SnackServer\obj\Debug\SnackServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\临时\SnackServer\SnackServer\obj\Debug\SnackServer.csproj.GenerateResource.Cache
